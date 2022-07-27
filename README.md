@@ -1,4 +1,4 @@
-#iiitb_ba-BCD Adder 
+# iiitb_ba-BCD Adder 
 4 bit BCD Adder is used to add one digit decimal number.
 
 ## PRE-SIMULATION
