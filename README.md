@@ -4,11 +4,11 @@
 ## PRE-SIMULATION
 To clone the Repository and simulate the verilog code enter the following commands in terminal
 
-$ git clone https://github.com/iiitbbcdadder/iiitb_ba
-$ cd asic
-$ iverilog -o bcdadd.out iiitb_ba.v iiitb_ba_tb.v
-$ ./bcdadd.out
-$ gtkwave bcdadd.vcd
+* Number 1      $ git clone https://github.com/iiitbbcdadder/iiitb_ba
+* Number 2      $ cd asic
+* Number 3      $ iverilog -o bcdadd.out iiitb_ba.v iiitb_ba_tb.v
+* Number 4      $ ./bcdadd.out
+* Number 5      $ gtkwave bcdadd.vcd
 
 
 
