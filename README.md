@@ -23,6 +23,13 @@ To clone the Repository and simulate the verilog code enter the following comman
 
 
 ## Contributors
+* 1
+* 2
+* 3
 ## Acknowledgments
+* 1
+
 ## Contact Information
+* 1
+* 2
 
