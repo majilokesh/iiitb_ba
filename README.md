@@ -23,13 +23,12 @@ To clone the Repository and simulate the verilog code enter the following comman
 
 
 ## Contributors
-* 1
-* 2
-* 3
+* Nisha B Rajput
+* Kunal Ghosh
 ## Acknowledgments
-* 1
+* Kunal Ghosh,Director,VSD Corp. Pvt. Ltd.
 
 ## Contact Information
-* 1
-* 2
+* Nisha B Rajput,postgraduate student,International Institute of Information Technology,Bangalore nisha.05.rajput@gmail.com
+* Kunal Ghosh,Director,VSD Corp.Pvt. Ltd. kunalghosh@gmail.com
 
