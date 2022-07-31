@@ -1,5 +1,4 @@
 # read design
-
 read_verilog iiitb_ba.v
 
 # generic synthesis
