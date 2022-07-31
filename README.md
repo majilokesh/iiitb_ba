@@ -4,11 +4,11 @@
 ## PRE-SIMULATION
 To clone the Repository and simulate the verilog code enter the following commands in terminal
 
-*      $ git clone https://github.com/iiitbbcdadder/iiitb_ba
-*      $ cd asic
-*      $ iverilog -o bcdadd.out iiitb_ba.v iiitb_ba_tb.v
-*      $ ./bcdadd.out
-*      $ gtkwave bcdadd.vcd
+>   $ git clone https://github.com/iiitbbcdadder/iiitb_ba
+>   $ cd asic
+>   $ iverilog -o bcdadd.out iiitb_ba.v iiitb_ba_tb.v
+>   $ ./bcdadd.out
+>   $ gtkwave bcdadd.vcd
 
 
 
@@ -17,7 +17,7 @@ To clone the Repository and simulate the verilog code enter the following comman
 
 
 
-#### OUTPUT WAVEFORM
+## OUTPUT WAVEFORM
 ![image](https://user-images.githubusercontent.com/110079800/181347832-a8093974-1f31-4a78-a8e3-da1dccb1c685.png)
 
 
@@ -32,6 +32,8 @@ To clone the Repository and simulate the verilog code enter the following comman
 * Kunal Ghosh,Director,VSD Corp. Pvt. Ltd.
 
 ## Contact Information
-* Nisha B Rajput,postgraduate student,International Institute of Information Technology,Bangalore nisha.05.rajput@gmail.com
+* Nisha B Rajput,M Tech student,International Institute of Information Technology,Bangalore nisha.05.rajput@gmail.com
 * Kunal Ghosh,Director,VSD Corp.Pvt. Ltd. kunalghosh@gmail.com
+* Dantu Nandini Devi,M Tech student,International Institute of Information Technology,Bangalore nandini.dantu@gmail.com
+* Banda Anusha.M Tech student,International Institute of Information Technology,Bangalore 
 
