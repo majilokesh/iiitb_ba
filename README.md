@@ -4,6 +4,8 @@
 ## Introduction
 BCD stands for binary coded decimal. It is used to perform the addition of BCD numbers. A BCD digit can have any of ten possible four-bit representations. Suppose, we have two 4-bit numbers A and B. The value of A and B can vary from 0(0000 in binary) to 9(1001 in binary) because we are considering decimal numbers. 
 
+## Block Diagram
+
 ![](https://media.geeksforgeeks.org/wp-content/uploads/AB.png)
 
 The output will vary from 0 to 18 if we are not considering the carry from the previous sum. But if we are considering the carry, then the maximum value of output will be 19 (i.e. 9+9+1 = 19). When we are simply adding A and B, then we get the binary sum. Here, to get the output in BCD form, we will use BCD Adder.
@@ -45,6 +47,8 @@ So, our logic is
 
 C' + S3'.S2' + S3'.S1' = 1
 
+## Circuit Diagram
+
 ![](https://media.geeksforgeeks.org/wp-content/uploads/CC.png)
 
 ## Applications of BCD Adder
@@ -68,7 +72,7 @@ Enter the following commands in Terminal
 `$ sudo apt get install iverilog gtkwave`
 
 
-## Steps to clone the repository and simulate the verilog code
+## Steps to clone the git repository and simulate the verilog code
 To clone the repository and download the netlist files for simulation,enter the following commands in Terminal
 
    `$ git clone https://github.com/iiitbbcdadder/iiitb_ba`
@@ -88,7 +92,7 @@ To clone the repository and download the netlist files for simulation,enter the 
 
 
 
-## OUTPUT WAVEFORM
+## Output Waveform After Simulation
 ![image](https://user-images.githubusercontent.com/110079800/181347832-a8093974-1f31-4a78-a8e3-da1dccb1c685.png)
 
 
@@ -107,8 +111,10 @@ To synthesize
 
 `$ yosys script bcd`
 
-## Contributors
+## Author
 * Nisha B Rajput
+
+## Contributors
 * Kunal Ghosh
 * Dantu Nandini Devi
 * Banda Anusha
