@@ -25,6 +25,9 @@ To clone the Repository and simulate the verilog code enter the following comman
 ## Contributors
 * Nisha B Rajput
 * Kunal Ghosh
+* Dantu Nandini Devi
+* Banda Anusha
+
 ## Acknowledgments
 * Kunal Ghosh,Director,VSD Corp. Pvt. Ltd.
 
