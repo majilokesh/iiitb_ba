@@ -47,6 +47,7 @@ Yosys is a framework for Verilog RTL synthesis. It currently has extensive Veril
 ## Steps to install Yosys in Linux
 
 `$  sudo apt-get update`
+
 `$  sudo apt-get -y install yosys`
 
 To synthesize
