@@ -47,7 +47,7 @@ So, our logic is
 
 C' + S3'.S2' + S3'.S1' = 1
 
-## Circuit Diagram
+## Schematic
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/CC.png)
 
@@ -109,7 +109,7 @@ Yosys is a framework for Verilog RTL synthesis. It currently has extensive Veril
 
 To synthesize
 
-`yosys> script bcd`
+`yosys>script bcd`
 
 ## Author
 * Nisha B Rajput
