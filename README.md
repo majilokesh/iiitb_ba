@@ -109,7 +109,7 @@ Yosys is a framework for Verilog RTL synthesis. It currently has extensive Veril
 
 To synthesize
 
-`$ yosys script bcd`
+`yosys> script bcd`
 
 ## Author
 * Nisha B Rajput
@@ -125,6 +125,6 @@ To synthesize
 ## Contact Information
 * Nisha B Rajput,M Tech student,International Institute of Information Technology,Bangalore nisha.05.rajput@gmail.com
 * Kunal Ghosh,Director,VSD Corp.Pvt. Ltd. kunalghosh@gmail.com
-* Dantu Nandini Devi,M Tech student,International Institute of Information Technology,Bangalore nandini.dantu@gmail.com
+* Dantu Nandini Devi,Ms student,International Institute of Information Technology,Bangalore nandini.dantu@gmail.com
 * Banda Anusha.M Tech student,International Institute of Information Technology,Bangalore 
 
